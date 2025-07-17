@@ -18,7 +18,7 @@ A **Java Swing GUI application** that generates a random 10x10 letter grid and a
 
 ## 🖼️ Demo
 
-![Demo Screenshot](#) 
+![Wordsearch solver demo](wordsearchsolver.png "Wordsearch solver demo") 
 ---
 
 ## 🔧 Tech Stack
